@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Samidha Manjrekar <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="60" /></h1>
+
 ## 👩‍💻 About Me  
 <table>
   <tr>
