@@ -33,7 +33,9 @@
 </table>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SamidhaManjrekar&theme=rose&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamidhaManjrekar&theme=rose&no-frame=false&no-bg=false&margin-w=4">
+</p>
 
 ## 💻 Tech Stack:
 <p align="center">
